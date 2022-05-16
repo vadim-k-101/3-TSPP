@@ -60,7 +60,7 @@ namespace ConsoleApp3
                     break;
 
                 case 2:
-                    string path = "D:/sport.txt";
+                    string path = "C:/sport.txt";
 
                     Console.Write("Введіть імя 1 переможця: ");
                     string firstperson = Console.ReadLine();
